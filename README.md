@@ -1,4 +1,11 @@
-## Hi there, i am Luis guilherme Borges, front-end developer
+### Hi there, i am Luis guilherme Borges
+
+<div>
+<p>-👨‍🎓 Computer science
+<p>-💻 Front-end developer JR
+<p>-🧐 Studying JavaScript, React, Vue.js, SEO, UX/UI
+ </div>
+
 <div align="center">
   <a href="https://github.com/luisguilhermeborges">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=luisguilhermeborges&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
