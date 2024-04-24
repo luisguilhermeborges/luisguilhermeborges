@@ -3,7 +3,7 @@
 <div>
 <p>-👨‍🎓 Computer science
 <p>-💻 Front-end developer JR
-<p>-🧐 Studying JavaScript, React, Vue.js, UX/UI
+<p>-🧐 Studying JavaScript, React, Vue.js,
  </div>
 
 <div align="center">
