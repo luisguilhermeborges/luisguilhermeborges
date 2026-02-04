@@ -2,8 +2,8 @@
 
 <div>
 <p>-👨‍🎓 Computer science
-<p>-💻 Full Stack developer
-<p>-🧐 Studying JavaScript, React, Vue.js
+<p>-💻 Operations Analyst
+<p>-🧐 Studying JavaScript, Node, React, Vue and MongoDB
  </div>
 
 <div align="center">
